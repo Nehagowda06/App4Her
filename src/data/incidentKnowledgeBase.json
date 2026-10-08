@@ -1,0 +1,1770 @@
+[
+  {
+    "incident_title": "Someone following me on foot",
+    "keywords": [
+      "follow",
+      "following",
+      "stalker",
+      "behind me"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Move to a well lit or crowded area",
+      "Share location with trusted contacts",
+      "Use Fake Call to create distance",
+      "Find nearest Safe Haven",
+      "Activate Protection Mode if danger increases"
+    ]
+  },
+  {
+    "incident_title": "Suspicious car following my route",
+    "keywords": [
+      "car following",
+      "vehicle trailing",
+      "same car",
+      "tailing me"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Move to a well lit or crowded area",
+      "Share location with trusted contacts",
+      "Use Fake Call to create distance",
+      "Find nearest Safe Haven",
+      "Activate Protection Mode if danger increases"
+    ]
+  },
+  {
+    "incident_title": "Person keeps matching my turns",
+    "keywords": [
+      "matching turns",
+      "same direction",
+      "shadowing",
+      "tracking me"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Move to a well lit or crowded area",
+      "Share location with trusted contacts",
+      "Use Fake Call to create distance",
+      "Find nearest Safe Haven",
+      "Activate Protection Mode if danger increases"
+    ]
+  },
+  {
+    "incident_title": "Stalker waiting outside destination",
+    "keywords": [
+      "waiting outside",
+      "stalker outside",
+      "outside my place",
+      "person waiting"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Move to a well lit or crowded area",
+      "Share location with trusted contacts",
+      "Use Fake Call to create distance",
+      "Find nearest Safe Haven",
+      "Activate Protection Mode if danger increases"
+    ]
+  },
+  {
+    "incident_title": "Unsafe taxi ride feeling",
+    "keywords": [
+      "unsafe taxi",
+      "cab unsafe",
+      "driver scary",
+      "ride unsafe"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Share trip details immediately",
+      "Call trusted contact on speaker",
+      "Ask driver to stop at a crowded place",
+      "Use Fake Call if needed",
+      "Activate Protection Mode on route deviation"
+    ]
+  },
+  {
+    "incident_title": "Ride share route deviation",
+    "keywords": [
+      "wrong route",
+      "route changed",
+      "deviation",
+      "driver not following map"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Share trip details immediately",
+      "Call trusted contact on speaker",
+      "Ask driver to stop at a crowded place",
+      "Use Fake Call if needed",
+      "Activate Protection Mode on route deviation"
+    ]
+  },
+  {
+    "incident_title": "Driver locks doors and ignores request",
+    "keywords": [
+      "locked doors",
+      "driver ignoring",
+      "cannot get out",
+      "not stopping"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Share trip details immediately",
+      "Call trusted contact on speaker",
+      "Ask driver to stop at a crowded place",
+      "Use Fake Call if needed",
+      "Activate Protection Mode on route deviation"
+    ]
+  },
+  {
+    "incident_title": "Driver asks personal intrusive questions",
+    "keywords": [
+      "driver asking personal",
+      "intrusive questions",
+      "creepy driver",
+      "unsafe conversation"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Share trip details immediately",
+      "Call trusted contact on speaker",
+      "Ask driver to stop at a crowded place",
+      "Use Fake Call if needed",
+      "Activate Protection Mode on route deviation"
+    ]
+  },
+  {
+    "incident_title": "Suspicious hotel room setup",
+    "keywords": [
+      "hotel suspicious",
+      "room suspicious",
+      "hidden camera",
+      "unsafe hotel room"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Do a guided room safety inspection",
+      "Report suspicious findings to hotel management",
+      "Request room change near reception",
+      "Keep trusted contacts informed of room details",
+      "Log incident evidence in Incident Records"
+    ]
+  },
+  {
+    "incident_title": "Unknown device blinking in room",
+    "keywords": [
+      "blinking light",
+      "unknown device",
+      "strange device",
+      "camera lens"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Do a guided room safety inspection",
+      "Report suspicious findings to hotel management",
+      "Request room change near reception",
+      "Keep trusted contacts informed of room details",
+      "Log incident evidence in Incident Records"
+    ]
+  },
+  {
+    "incident_title": "Door lock feels tampered in hotel",
+    "keywords": [
+      "door tampered",
+      "lock broken",
+      "hotel lock issue",
+      "door safety"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Do a guided room safety inspection",
+      "Report suspicious findings to hotel management",
+      "Request room change near reception",
+      "Keep trusted contacts informed of room details",
+      "Log incident evidence in Incident Records"
+    ]
+  },
+  {
+    "incident_title": "Unexpected duplicate key access fear",
+    "keywords": [
+      "duplicate key",
+      "staff entered",
+      "someone entered room",
+      "room access"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Do a guided room safety inspection",
+      "Report suspicious findings to hotel management",
+      "Request room change near reception",
+      "Keep trusted contacts informed of room details",
+      "Log incident evidence in Incident Records"
+    ]
+  },
+  {
+    "incident_title": "Drink spiking suspicion",
+    "keywords": [
+      "drink spiked",
+      "spiking",
+      "tampered drink",
+      "unsafe drink"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Do not consume the drink",
+      "Get a fresh sealed drink only",
+      "Inform venue staff or security",
+      "Stay with trusted person and monitor symptoms",
+      "Log suspicious drink incident"
+    ]
+  },
+  {
+    "incident_title": "Unusual taste after leaving drink unattended",
+    "keywords": [
+      "left drink",
+      "strange taste",
+      "drink unattended",
+      "taste changed"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Do not consume the drink",
+      "Get a fresh sealed drink only",
+      "Inform venue staff or security",
+      "Stay with trusted person and monitor symptoms",
+      "Log suspicious drink incident"
+    ]
+  },
+  {
+    "incident_title": "Oily film or residue in beverage",
+    "keywords": [
+      "oily film",
+      "residue",
+      "floating particles",
+      "weird drink look"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Do not consume the drink",
+      "Get a fresh sealed drink only",
+      "Inform venue staff or security",
+      "Stay with trusted person and monitor symptoms",
+      "Log suspicious drink incident"
+    ]
+  },
+  {
+    "incident_title": "Party drink offered already opened",
+    "keywords": [
+      "opened drink",
+      "already open",
+      "offered drink",
+      "party drink risk"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Do not consume the drink",
+      "Get a fresh sealed drink only",
+      "Inform venue staff or security",
+      "Stay with trusted person and monitor symptoms",
+      "Log suspicious drink incident"
+    ]
+  },
+  {
+    "incident_title": "Harassment in public place",
+    "keywords": [
+      "harassment",
+      "public harassment",
+      "catcalling",
+      "man bothering me"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Move toward staff and populated area",
+      "Use clear verbal boundary statements",
+      "Document details quickly",
+      "Share location and status with trusted contact",
+      "Use Protection Mode if escalation occurs"
+    ]
+  },
+  {
+    "incident_title": "Persistent stranger in mall",
+    "keywords": [
+      "persistent stranger",
+      "mall harassment",
+      "following in mall",
+      "unwanted approach"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Move toward staff and populated area",
+      "Use clear verbal boundary statements",
+      "Document details quickly",
+      "Share location and status with trusted contact",
+      "Use Protection Mode if escalation occurs"
+    ]
+  },
+  {
+    "incident_title": "Street verbal abuse and intimidation",
+    "keywords": [
+      "verbal abuse",
+      "intimidation",
+      "street abuse",
+      "threatening words"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Move toward staff and populated area",
+      "Use clear verbal boundary statements",
+      "Document details quickly",
+      "Share location and status with trusted contact",
+      "Use Protection Mode if escalation occurs"
+    ]
+  },
+  {
+    "incident_title": "Crowded queue inappropriate touching",
+    "keywords": [
+      "inappropriate touch",
+      "crowded touching",
+      "queue harassment",
+      "groping"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Move toward staff and populated area",
+      "Use clear verbal boundary statements",
+      "Document details quickly",
+      "Share location and status with trusted contact",
+      "Use Protection Mode if escalation occurs"
+    ]
+  },
+  {
+    "incident_title": "Lost in unfamiliar area",
+    "keywords": [
+      "lost",
+      "unfamiliar area",
+      "dont know where i am",
+      "wrong area"
+    ],
+    "risk_level": "medium",
+    "recommended_actions": [
+      "Pause and check current location pin",
+      "Share location with trusted contact",
+      "Move to nearest public landmark",
+      "Avoid isolated shortcuts",
+      "Find Safe Haven for guidance"
+    ]
+  },
+  {
+    "incident_title": "Phone battery low while lost",
+    "keywords": [
+      "battery low",
+      "lost with low battery",
+      "phone dying",
+      "navigation off"
+    ],
+    "risk_level": "medium",
+    "recommended_actions": [
+      "Pause and check current location pin",
+      "Share location with trusted contact",
+      "Move to nearest public landmark",
+      "Avoid isolated shortcuts",
+      "Find Safe Haven for guidance"
+    ]
+  },
+  {
+    "incident_title": "No transport option in unknown locality",
+    "keywords": [
+      "no transport",
+      "stranded",
+      "unknown locality",
+      "cannot find ride"
+    ],
+    "risk_level": "medium",
+    "recommended_actions": [
+      "Pause and check current location pin",
+      "Share location with trusted contact",
+      "Move to nearest public landmark",
+      "Avoid isolated shortcuts",
+      "Find Safe Haven for guidance"
+    ]
+  },
+  {
+    "incident_title": "Map confusion in dense streets",
+    "keywords": [
+      "map confusion",
+      "wrong turns",
+      "streets confusing",
+      "navigation issue"
+    ],
+    "risk_level": "medium",
+    "recommended_actions": [
+      "Pause and check current location pin",
+      "Share location with trusted contact",
+      "Move to nearest public landmark",
+      "Avoid isolated shortcuts",
+      "Find Safe Haven for guidance"
+    ]
+  },
+  {
+    "incident_title": "Someone trying to open my door",
+    "keywords": [
+      "open my door",
+      "door handle moving",
+      "door forced",
+      "break in"
+    ],
+    "risk_level": "critical",
+    "recommended_actions": [
+      "Call emergency services immediately",
+      "Activate Protection Mode now",
+      "Alert trusted contacts with location",
+      "Do not open door without verification",
+      "Move to safer internal room if possible"
+    ]
+  },
+  {
+    "incident_title": "Repeated knocking at odd hour",
+    "keywords": [
+      "repeated knocking",
+      "late night knock",
+      "stranger at door",
+      "unknown knocking"
+    ],
+    "risk_level": "critical",
+    "recommended_actions": [
+      "Call emergency services immediately",
+      "Activate Protection Mode now",
+      "Alert trusted contacts with location",
+      "Do not open door without verification",
+      "Move to safer internal room if possible"
+    ]
+  },
+  {
+    "incident_title": "Unknown person claiming emergency outside door",
+    "keywords": [
+      "help me open door",
+      "emergency outside door",
+      "stranger asks entry",
+      "door scam"
+    ],
+    "risk_level": "critical",
+    "recommended_actions": [
+      "Call emergency services immediately",
+      "Activate Protection Mode now",
+      "Alert trusted contacts with location",
+      "Do not open door without verification",
+      "Move to safer internal room if possible"
+    ]
+  },
+  {
+    "incident_title": "Doorbell camera shows suspicious loitering",
+    "keywords": [
+      "doorbell camera",
+      "loitering outside",
+      "outside my home",
+      "suspicious outside"
+    ],
+    "risk_level": "critical",
+    "recommended_actions": [
+      "Call emergency services immediately",
+      "Activate Protection Mode now",
+      "Alert trusted contacts with location",
+      "Do not open door without verification",
+      "Move to safer internal room if possible"
+    ]
+  },
+  {
+    "incident_title": "Aggressive stranger confrontation",
+    "keywords": [
+      "aggressive stranger",
+      "angry stranger",
+      "threatening person",
+      "shouting at me"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Keep physical distance and avoid arguments",
+      "Move toward staff/security",
+      "Call trusted contact or emergency if threatened",
+      "Use Fake Call to disengage",
+      "Log details after reaching safety"
+    ]
+  },
+  {
+    "incident_title": "Person blocking path intentionally",
+    "keywords": [
+      "blocking path",
+      "wont let me pass",
+      "cornering me",
+      "path blocked"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Keep physical distance and avoid arguments",
+      "Move toward staff/security",
+      "Call trusted contact or emergency if threatened",
+      "Use Fake Call to disengage",
+      "Log details after reaching safety"
+    ]
+  },
+  {
+    "incident_title": "Road rage directed at me",
+    "keywords": [
+      "road rage",
+      "driver shouting",
+      "vehicle aggression",
+      "traffic threat"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Keep physical distance and avoid arguments",
+      "Move toward staff/security",
+      "Call trusted contact or emergency if threatened",
+      "Use Fake Call to disengage",
+      "Log details after reaching safety"
+    ]
+  },
+  {
+    "incident_title": "Drunk individual behaving violently nearby",
+    "keywords": [
+      "drunk aggressive",
+      "violent drunk",
+      "unsafe drunk person",
+      "intoxicated threat"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Keep physical distance and avoid arguments",
+      "Move toward staff/security",
+      "Call trusted contact or emergency if threatened",
+      "Use Fake Call to disengage",
+      "Log details after reaching safety"
+    ]
+  },
+  {
+    "incident_title": "Late night walk alone concern",
+    "keywords": [
+      "late night alone",
+      "walking alone night",
+      "night walk unsafe",
+      "alone at night"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Stay in lit areas with CCTV coverage",
+      "Share live location continuously",
+      "Avoid secluded parking zones",
+      "Request escort from security if available",
+      "Use Protection Mode if risk escalates"
+    ]
+  },
+  {
+    "incident_title": "Unsafe parking lot environment",
+    "keywords": [
+      "parking lot unsafe",
+      "dark parking",
+      "parking stranger",
+      "car park risk"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Stay in lit areas with CCTV coverage",
+      "Share live location continuously",
+      "Avoid secluded parking zones",
+      "Request escort from security if available",
+      "Use Protection Mode if risk escalates"
+    ]
+  },
+  {
+    "incident_title": "Power outage during night commute",
+    "keywords": [
+      "power outage",
+      "street dark",
+      "no lights",
+      "night blackout"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Stay in lit areas with CCTV coverage",
+      "Share live location continuously",
+      "Avoid secluded parking zones",
+      "Request escort from security if available",
+      "Use Protection Mode if risk escalates"
+    ]
+  },
+  {
+    "incident_title": "Long isolated footpath after transport drop",
+    "keywords": [
+      "isolated path",
+      "empty road",
+      "dropped far",
+      "dark footpath"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Stay in lit areas with CCTV coverage",
+      "Share live location continuously",
+      "Avoid secluded parking zones",
+      "Request escort from security if available",
+      "Use Protection Mode if risk escalates"
+    ]
+  },
+  {
+    "incident_title": "Fake delivery person suspicion",
+    "keywords": [
+      "fake delivery",
+      "delivery scam",
+      "wrong parcel",
+      "delivery person suspicious"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Verify identity without opening door fully",
+      "Contact official helpline to verify service",
+      "Inform neighbors or security",
+      "Record details and badge info",
+      "Activate Protection Mode if pressured"
+    ]
+  },
+  {
+    "incident_title": "Person posing as utility worker",
+    "keywords": [
+      "utility worker",
+      "electricity staff",
+      "gas staff fake",
+      "maintenance fake"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Verify identity without opening door fully",
+      "Contact official helpline to verify service",
+      "Inform neighbors or security",
+      "Record details and badge info",
+      "Activate Protection Mode if pressured"
+    ]
+  },
+  {
+    "incident_title": "Unexpected courier asking OTP repeatedly",
+    "keywords": [
+      "otp scam",
+      "courier otp",
+      "delivery otp pressure",
+      "share otp"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Verify identity without opening door fully",
+      "Contact official helpline to verify service",
+      "Inform neighbors or security",
+      "Record details and badge info",
+      "Activate Protection Mode if pressured"
+    ]
+  },
+  {
+    "incident_title": "Doorstep survey request feels unsafe",
+    "keywords": [
+      "doorstep survey",
+      "unknown survey",
+      "questionnaire at door",
+      "door stranger"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Verify identity without opening door fully",
+      "Contact official helpline to verify service",
+      "Inform neighbors or security",
+      "Record details and badge info",
+      "Activate Protection Mode if pressured"
+    ]
+  },
+  {
+    "incident_title": "Phone snatching risk in street",
+    "keywords": [
+      "phone snatching",
+      "bike snatcher",
+      "snatch risk",
+      "mobile theft"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Secure phone and valuables immediately",
+      "Move to crowded zone",
+      "Avoid using phone while walking near road edge",
+      "Call for help loudly if snatching attempt occurs",
+      "Report incident and log details"
+    ]
+  },
+  {
+    "incident_title": "Motorbike riders circling repeatedly",
+    "keywords": [
+      "bike circling",
+      "two wheeler suspicious",
+      "riders watching",
+      "snatchers"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Secure phone and valuables immediately",
+      "Move to crowded zone",
+      "Avoid using phone while walking near road edge",
+      "Call for help loudly if snatching attempt occurs",
+      "Report incident and log details"
+    ]
+  },
+  {
+    "incident_title": "Crowded market pickpocket concern",
+    "keywords": [
+      "pickpocket",
+      "crowded market theft",
+      "bag theft",
+      "wallet risk"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Secure phone and valuables immediately",
+      "Move to crowded zone",
+      "Avoid using phone while walking near road edge",
+      "Call for help loudly if snatching attempt occurs",
+      "Report incident and log details"
+    ]
+  },
+  {
+    "incident_title": "Stranger distracting while companion approaches",
+    "keywords": [
+      "distraction theft",
+      "stranger distracting",
+      "accomplice",
+      "theft setup"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Secure phone and valuables immediately",
+      "Move to crowded zone",
+      "Avoid using phone while walking near road edge",
+      "Call for help loudly if snatching attempt occurs",
+      "Report incident and log details"
+    ]
+  },
+  {
+    "incident_title": "Public transport harassment",
+    "keywords": [
+      "bus harassment",
+      "metro harassment",
+      "train harassment",
+      "public transport unsafe"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Switch to women-safe coach or crowded compartment",
+      "Stay near CCTV and staff points",
+      "Report harassment to transport helpline",
+      "Share live location with trusted contact",
+      "Use Fake Call for quick social exit"
+    ]
+  },
+  {
+    "incident_title": "Empty coach discomfort",
+    "keywords": [
+      "empty coach",
+      "alone in coach",
+      "metro empty",
+      "train alone"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Switch to women-safe coach or crowded compartment",
+      "Stay near CCTV and staff points",
+      "Report harassment to transport helpline",
+      "Share live location with trusted contact",
+      "Use Fake Call for quick social exit"
+    ]
+  },
+  {
+    "incident_title": "Passenger repeatedly filming me",
+    "keywords": [
+      "filming me",
+      "recording me",
+      "camera pointed",
+      "phone camera harassment"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Switch to women-safe coach or crowded compartment",
+      "Stay near CCTV and staff points",
+      "Report harassment to transport helpline",
+      "Share live location with trusted contact",
+      "Use Fake Call for quick social exit"
+    ]
+  },
+  {
+    "incident_title": "Driver or conductor inappropriate behavior",
+    "keywords": [
+      "conductor harassment",
+      "driver harassment",
+      "staff inappropriate",
+      "transport staff"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Switch to women-safe coach or crowded compartment",
+      "Stay near CCTV and staff points",
+      "Report harassment to transport helpline",
+      "Share live location with trusted contact",
+      "Use Fake Call for quick social exit"
+    ]
+  },
+  {
+    "incident_title": "ATM area suspicious person",
+    "keywords": [
+      "atm suspicious",
+      "atm person watching",
+      "cash withdrawal unsafe",
+      "atm risk"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Do not engage with suspicious person",
+      "Move to nearest secure indoor location",
+      "Alert bank/security staff immediately",
+      "Share location to trusted contact",
+      "Call emergency if direct threat appears"
+    ]
+  },
+  {
+    "incident_title": "Person offering help at ATM keypad",
+    "keywords": [
+      "help at atm",
+      "atm assistance stranger",
+      "atm scam",
+      "shoulder surfing"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Do not engage with suspicious person",
+      "Move to nearest secure indoor location",
+      "Alert bank/security staff immediately",
+      "Share location to trusted contact",
+      "Call emergency if direct threat appears"
+    ]
+  },
+  {
+    "incident_title": "Cash withdrawal followed by strangers",
+    "keywords": [
+      "after atm followed",
+      "cash followed",
+      "withdrawal risk",
+      "atm tailing"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Do not engage with suspicious person",
+      "Move to nearest secure indoor location",
+      "Alert bank/security staff immediately",
+      "Share location to trusted contact",
+      "Call emergency if direct threat appears"
+    ]
+  },
+  {
+    "incident_title": "Card cloning concern at ATM machine",
+    "keywords": [
+      "card cloning",
+      "skimmer",
+      "atm machine tampered",
+      "atm fraud"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Do not engage with suspicious person",
+      "Move to nearest secure indoor location",
+      "Alert bank/security staff immediately",
+      "Share location to trusted contact",
+      "Call emergency if direct threat appears"
+    ]
+  },
+  {
+    "incident_title": "Elevator safety concern with stranger",
+    "keywords": [
+      "elevator unsafe",
+      "lift stranger",
+      "alone in elevator",
+      "elevator concern"
+    ],
+    "risk_level": "medium",
+    "recommended_actions": [
+      "Wait for next elevator if unsafe",
+      "Stand near control panel and emergency button",
+      "Avoid isolated stairwells alone",
+      "Call trusted contact while moving floors",
+      "Use Fake Call if uncomfortable"
+    ]
+  },
+  {
+    "incident_title": "Stairwell feels unsafe and isolated",
+    "keywords": [
+      "stairwell unsafe",
+      "isolated stairs",
+      "dark staircase",
+      "stair concern"
+    ],
+    "risk_level": "medium",
+    "recommended_actions": [
+      "Wait for next elevator if unsafe",
+      "Stand near control panel and emergency button",
+      "Avoid isolated stairwells alone",
+      "Call trusted contact while moving floors",
+      "Use Fake Call if uncomfortable"
+    ]
+  },
+  {
+    "incident_title": "Person waits near elevator repeatedly",
+    "keywords": [
+      "near elevator waiting",
+      "elevator stalker",
+      "same person floors",
+      "lift waiting"
+    ],
+    "risk_level": "medium",
+    "recommended_actions": [
+      "Wait for next elevator if unsafe",
+      "Stand near control panel and emergency button",
+      "Avoid isolated stairwells alone",
+      "Call trusted contact while moving floors",
+      "Use Fake Call if uncomfortable"
+    ]
+  },
+  {
+    "incident_title": "Lift stops unexpectedly with unknown person",
+    "keywords": [
+      "lift stopped",
+      "elevator stopped",
+      "trapped with stranger",
+      "stuck lift"
+    ],
+    "risk_level": "medium",
+    "recommended_actions": [
+      "Wait for next elevator if unsafe",
+      "Stand near control panel and emergency button",
+      "Avoid isolated stairwells alone",
+      "Call trusted contact while moving floors",
+      "Use Fake Call if uncomfortable"
+    ]
+  },
+  {
+    "incident_title": "Domestic emergency escalation",
+    "keywords": [
+      "domestic emergency",
+      "home violence",
+      "family threat",
+      "unsafe at home"
+    ],
+    "risk_level": "critical",
+    "recommended_actions": [
+      "Move to immediate physical safety",
+      "Call emergency services and trusted contacts",
+      "Activate Protection Mode and keep location sharing on",
+      "Document injuries or threats safely",
+      "Seek medical/legal support as soon as possible"
+    ]
+  },
+  {
+    "incident_title": "Partner tracking and control behavior",
+    "keywords": [
+      "partner tracking",
+      "controlling partner",
+      "abusive partner",
+      "monitoring me"
+    ],
+    "risk_level": "critical",
+    "recommended_actions": [
+      "Move to immediate physical safety",
+      "Call emergency services and trusted contacts",
+      "Activate Protection Mode and keep location sharing on",
+      "Document injuries or threats safely",
+      "Seek medical/legal support as soon as possible"
+    ]
+  },
+  {
+    "incident_title": "Threatening messages from known person at home",
+    "keywords": [
+      "threat messages",
+      "known person threat",
+      "home threat",
+      "abuse text"
+    ],
+    "risk_level": "critical",
+    "recommended_actions": [
+      "Move to immediate physical safety",
+      "Call emergency services and trusted contacts",
+      "Activate Protection Mode and keep location sharing on",
+      "Document injuries or threats safely",
+      "Seek medical/legal support as soon as possible"
+    ]
+  },
+  {
+    "incident_title": "Immediate exit needed from unsafe home environment",
+    "keywords": [
+      "need to leave home",
+      "unsafe household",
+      "emergency exit home",
+      "danger at home"
+    ],
+    "risk_level": "critical",
+    "recommended_actions": [
+      "Move to immediate physical safety",
+      "Call emergency services and trusted contacts",
+      "Activate Protection Mode and keep location sharing on",
+      "Document injuries or threats safely",
+      "Seek medical/legal support as soon as possible"
+    ]
+  },
+  {
+    "incident_title": "Party drink safety concern",
+    "keywords": [
+      "party drink",
+      "club drink",
+      "drink left unattended",
+      "nightclub drink"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Stay with trusted group members",
+      "Do not leave drink unattended",
+      "Plan pre-decided safe exit route",
+      "Share live location before leaving venue",
+      "Use Fake Call to exit uncomfortable interactions"
+    ]
+  },
+  {
+    "incident_title": "Unknown person insists on buying drinks",
+    "keywords": [
+      "buying drinks insist",
+      "stranger drink offer",
+      "forced drinks",
+      "club stranger"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Stay with trusted group members",
+      "Do not leave drink unattended",
+      "Plan pre-decided safe exit route",
+      "Share live location before leaving venue",
+      "Use Fake Call to exit uncomfortable interactions"
+    ]
+  },
+  {
+    "incident_title": "Friend group separated in crowded party",
+    "keywords": [
+      "lost friends party",
+      "group separated",
+      "alone at party",
+      "party crowd"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Stay with trusted group members",
+      "Do not leave drink unattended",
+      "Plan pre-decided safe exit route",
+      "Share live location before leaving venue",
+      "Use Fake Call to exit uncomfortable interactions"
+    ]
+  },
+  {
+    "incident_title": "Venue exit area feels unsafe late night",
+    "keywords": [
+      "venue exit unsafe",
+      "club exit risk",
+      "outside party unsafe",
+      "late night venue"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Stay with trusted group members",
+      "Do not leave drink unattended",
+      "Plan pre-decided safe exit route",
+      "Share live location before leaving venue",
+      "Use Fake Call to exit uncomfortable interactions"
+    ]
+  },
+  {
+    "incident_title": "Online stalker requesting meetup",
+    "keywords": [
+      "online stalker",
+      "forced meetup",
+      "creepy online",
+      "social media stalker"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Do not share personal address or routine",
+      "Block and report suspicious accounts",
+      "Preserve evidence screenshots",
+      "Alert trusted contacts before meetups",
+      "Avoid isolated meetup locations"
+    ]
+  },
+  {
+    "incident_title": "Repeated unknown calls and DMs",
+    "keywords": [
+      "unknown calls",
+      "repeated dms",
+      "spam threats",
+      "harassing messages"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Do not share personal address or routine",
+      "Block and report suspicious accounts",
+      "Preserve evidence screenshots",
+      "Alert trusted contacts before meetups",
+      "Avoid isolated meetup locations"
+    ]
+  },
+  {
+    "incident_title": "Location leaked through social media posts",
+    "keywords": [
+      "location leaked",
+      "social media location",
+      "post location risk",
+      "live location exposed"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Do not share personal address or routine",
+      "Block and report suspicious accounts",
+      "Preserve evidence screenshots",
+      "Alert trusted contacts before meetups",
+      "Avoid isolated meetup locations"
+    ]
+  },
+  {
+    "incident_title": "Blackmail threat after online interaction",
+    "keywords": [
+      "blackmail online",
+      "extortion",
+      "threatening photos",
+      "online threat"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Do not share personal address or routine",
+      "Block and report suspicious accounts",
+      "Preserve evidence screenshots",
+      "Alert trusted contacts before meetups",
+      "Avoid isolated meetup locations"
+    ]
+  },
+  {
+    "incident_title": "Workplace harassment after hours",
+    "keywords": [
+      "workplace harassment",
+      "office harassment",
+      "after hours office",
+      "manager harassment"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Inform HR or manager and document behavior",
+      "Avoid isolated meetings with offender",
+      "Leave office with colleague or security escort",
+      "Use trusted contact check-ins during commute",
+      "Log incidents for evidence continuity"
+    ]
+  },
+  {
+    "incident_title": "Colleague repeatedly waiting near desk",
+    "keywords": [
+      "colleague waiting",
+      "office stalker",
+      "desk harassment",
+      "unwanted colleague"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Inform HR or manager and document behavior",
+      "Avoid isolated meetings with offender",
+      "Leave office with colleague or security escort",
+      "Use trusted contact check-ins during commute",
+      "Log incidents for evidence continuity"
+    ]
+  },
+  {
+    "incident_title": "Boss asking private meetings in isolated area",
+    "keywords": [
+      "private meeting pressure",
+      "isolated meeting",
+      "boss inappropriate",
+      "office pressure"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Inform HR or manager and document behavior",
+      "Avoid isolated meetings with offender",
+      "Leave office with colleague or security escort",
+      "Use trusted contact check-ins during commute",
+      "Log incidents for evidence continuity"
+    ]
+  },
+  {
+    "incident_title": "Cab home from office feels unsafe",
+    "keywords": [
+      "office cab unsafe",
+      "work cab risk",
+      "late office ride",
+      "corporate transport unsafe"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Inform HR or manager and document behavior",
+      "Avoid isolated meetings with offender",
+      "Leave office with colleague or security escort",
+      "Use trusted contact check-ins during commute",
+      "Log incidents for evidence continuity"
+    ]
+  },
+  {
+    "incident_title": "Campus pathway unsafe at night",
+    "keywords": [
+      "campus unsafe",
+      "college night path",
+      "hostel route unsafe",
+      "university unsafe"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Move toward campus security office",
+      "Share live location with trusted contacts",
+      "Avoid isolated pathways and closed blocks",
+      "Travel in groups at night when possible",
+      "Report suspicious behavior to authorities"
+    ]
+  },
+  {
+    "incident_title": "Unknown person outside hostel gate",
+    "keywords": [
+      "outside hostel",
+      "hostel gate stranger",
+      "dorm security",
+      "campus stranger"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Move toward campus security office",
+      "Share live location with trusted contacts",
+      "Avoid isolated pathways and closed blocks",
+      "Travel in groups at night when possible",
+      "Report suspicious behavior to authorities"
+    ]
+  },
+  {
+    "incident_title": "Classmate persistent unwanted attention",
+    "keywords": [
+      "classmate harassment",
+      "unwanted attention",
+      "campus harassment",
+      "student stalking"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Move toward campus security office",
+      "Share live location with trusted contacts",
+      "Avoid isolated pathways and closed blocks",
+      "Travel in groups at night when possible",
+      "Report suspicious behavior to authorities"
+    ]
+  },
+  {
+    "incident_title": "Ride pickup point on campus isolated",
+    "keywords": [
+      "pickup isolated",
+      "campus pickup unsafe",
+      "ride point dark",
+      "college transport risk"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Move toward campus security office",
+      "Share live location with trusted contacts",
+      "Avoid isolated pathways and closed blocks",
+      "Travel in groups at night when possible",
+      "Report suspicious behavior to authorities"
+    ]
+  },
+  {
+    "incident_title": "Suspicious person near school pickup",
+    "keywords": [
+      "school pickup suspicious",
+      "near school gate",
+      "child pickup risk",
+      "school stranger"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Prioritize child and personal safety first",
+      "Move to nearest staffed public place",
+      "Contact trusted person immediately",
+      "Avoid confrontation if suspect nearby",
+      "Call emergency services when needed"
+    ]
+  },
+  {
+    "incident_title": "Unknown adult attempting conversation with child",
+    "keywords": [
+      "talking to child",
+      "unknown adult child",
+      "child lure",
+      "stranger child"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Prioritize child and personal safety first",
+      "Move to nearest staffed public place",
+      "Contact trusted person immediately",
+      "Avoid confrontation if suspect nearby",
+      "Call emergency services when needed"
+    ]
+  },
+  {
+    "incident_title": "Being followed while with child",
+    "keywords": [
+      "followed with child",
+      "child safety follow",
+      "stalker with child",
+      "family followed"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Prioritize child and personal safety first",
+      "Move to nearest staffed public place",
+      "Contact trusted person immediately",
+      "Avoid confrontation if suspect nearby",
+      "Call emergency services when needed"
+    ]
+  },
+  {
+    "incident_title": "Crowded transit separation with child",
+    "keywords": [
+      "child separated",
+      "lost child crowd",
+      "transit child safety",
+      "child panic"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Prioritize child and personal safety first",
+      "Move to nearest staffed public place",
+      "Contact trusted person immediately",
+      "Avoid confrontation if suspect nearby",
+      "Call emergency services when needed"
+    ]
+  },
+  {
+    "incident_title": "Late check-in at unfamiliar property",
+    "keywords": [
+      "late check in",
+      "unfamiliar property",
+      "stay unsafe",
+      "lodging unsafe"
+    ],
+    "risk_level": "medium",
+    "recommended_actions": [
+      "Verify property and host details before entry",
+      "Share booking details with trusted contacts",
+      "Avoid isolated check-in at odd hours",
+      "Use nearby staffed locations if uncertain",
+      "Log any suspicious accommodation issues"
+    ]
+  },
+  {
+    "incident_title": "Host asks to meet at different location",
+    "keywords": [
+      "host changed location",
+      "checkin moved",
+      "booking mismatch",
+      "stay scam"
+    ],
+    "risk_level": "medium",
+    "recommended_actions": [
+      "Verify property and host details before entry",
+      "Share booking details with trusted contacts",
+      "Avoid isolated check-in at odd hours",
+      "Use nearby staffed locations if uncertain",
+      "Log any suspicious accommodation issues"
+    ]
+  },
+  {
+    "incident_title": "Accommodation has no visible security",
+    "keywords": [
+      "no security",
+      "unsafe stay",
+      "no reception",
+      "property unsafe"
+    ],
+    "risk_level": "medium",
+    "recommended_actions": [
+      "Verify property and host details before entry",
+      "Share booking details with trusted contacts",
+      "Avoid isolated check-in at odd hours",
+      "Use nearby staffed locations if uncertain",
+      "Log any suspicious accommodation issues"
+    ]
+  },
+  {
+    "incident_title": "Access code shared with unknown people",
+    "keywords": [
+      "access code leak",
+      "shared code",
+      "room code risk",
+      "stay access"
+    ],
+    "risk_level": "medium",
+    "recommended_actions": [
+      "Verify property and host details before entry",
+      "Share booking details with trusted contacts",
+      "Avoid isolated check-in at odd hours",
+      "Use nearby staffed locations if uncertain",
+      "Log any suspicious accommodation issues"
+    ]
+  },
+  {
+    "incident_title": "Crowded event safety concern",
+    "keywords": [
+      "crowded event",
+      "concert unsafe",
+      "festival unsafe",
+      "crowd panic"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Move away from crowd pressure points",
+      "Identify emergency exits and safe zones",
+      "Avoid arguments with aggressive groups",
+      "Keep trusted contact updated on movement",
+      "Activate Protection Mode in fast escalation"
+    ]
+  },
+  {
+    "incident_title": "Aggressive group behavior nearby protest",
+    "keywords": [
+      "protest aggression",
+      "group aggressive",
+      "crowd violence",
+      "rally unsafe"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Move away from crowd pressure points",
+      "Identify emergency exits and safe zones",
+      "Avoid arguments with aggressive groups",
+      "Keep trusted contact updated on movement",
+      "Activate Protection Mode in fast escalation"
+    ]
+  },
+  {
+    "incident_title": "Stampede-like movement starts",
+    "keywords": [
+      "stampede",
+      "crowd rush",
+      "people pushing",
+      "panic movement"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Move away from crowd pressure points",
+      "Identify emergency exits and safe zones",
+      "Avoid arguments with aggressive groups",
+      "Keep trusted contact updated on movement",
+      "Activate Protection Mode in fast escalation"
+    ]
+  },
+  {
+    "incident_title": "Emergency exit blocked in venue",
+    "keywords": [
+      "exit blocked",
+      "venue exit closed",
+      "escape blocked",
+      "emergency route blocked"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Move away from crowd pressure points",
+      "Identify emergency exits and safe zones",
+      "Avoid arguments with aggressive groups",
+      "Keep trusted contact updated on movement",
+      "Activate Protection Mode in fast escalation"
+    ]
+  },
+  {
+    "incident_title": "Power outage in neighborhood at night",
+    "keywords": [
+      "power outage night",
+      "area blackout",
+      "street lights off",
+      "neighborhood dark"
+    ],
+    "risk_level": "medium",
+    "recommended_actions": [
+      "Move to illuminated and staffed area",
+      "Conserve battery and enable low power mode",
+      "Share location with trusted contact",
+      "Carry emergency essentials when possible",
+      "Avoid isolated travel during outages"
+    ]
+  },
+  {
+    "incident_title": "Network outage while commuting",
+    "keywords": [
+      "network outage",
+      "no signal",
+      "commute no network",
+      "offline commute"
+    ],
+    "risk_level": "medium",
+    "recommended_actions": [
+      "Move to illuminated and staffed area",
+      "Conserve battery and enable low power mode",
+      "Share location with trusted contact",
+      "Carry emergency essentials when possible",
+      "Avoid isolated travel during outages"
+    ]
+  },
+  {
+    "incident_title": "Severe weather causing isolated route",
+    "keywords": [
+      "heavy rain unsafe",
+      "storm route",
+      "weather danger",
+      "flooded street"
+    ],
+    "risk_level": "medium",
+    "recommended_actions": [
+      "Move to illuminated and staffed area",
+      "Conserve battery and enable low power mode",
+      "Share location with trusted contact",
+      "Carry emergency essentials when possible",
+      "Avoid isolated travel during outages"
+    ]
+  },
+  {
+    "incident_title": "Public emergency siren and confusion",
+    "keywords": [
+      "emergency siren",
+      "public alert",
+      "city emergency",
+      "disaster alert"
+    ],
+    "risk_level": "medium",
+    "recommended_actions": [
+      "Move to illuminated and staffed area",
+      "Conserve battery and enable low power mode",
+      "Share location with trusted contact",
+      "Carry emergency essentials when possible",
+      "Avoid isolated travel during outages"
+    ]
+  },
+  {
+    "incident_title": "Medical distress while alone outdoors",
+    "keywords": [
+      "medical distress",
+      "dizzy alone",
+      "faint risk",
+      "alone health emergency"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Contact emergency and medical support quickly",
+      "Share exact location and symptoms",
+      "Move to nearest hospital or staffed pharmacy",
+      "Stay on call with trusted contact",
+      "Do not continue isolated travel"
+    ]
+  },
+  {
+    "incident_title": "Possible panic attack in unsafe area",
+    "keywords": [
+      "panic attack",
+      "anxiety unsafe",
+      "breathing issue outside",
+      "panic outdoors"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Contact emergency and medical support quickly",
+      "Share exact location and symptoms",
+      "Move to nearest hospital or staffed pharmacy",
+      "Stay on call with trusted contact",
+      "Do not continue isolated travel"
+    ]
+  },
+  {
+    "incident_title": "Injury during commute with no help nearby",
+    "keywords": [
+      "injury commute",
+      "hurt outside",
+      "sprain alone",
+      "accident alone"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Contact emergency and medical support quickly",
+      "Share exact location and symptoms",
+      "Move to nearest hospital or staffed pharmacy",
+      "Stay on call with trusted contact",
+      "Do not continue isolated travel"
+    ]
+  },
+  {
+    "incident_title": "Medication emergency away from home",
+    "keywords": [
+      "medication emergency",
+      "missed dose danger",
+      "health risk away",
+      "need pharmacy now"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Contact emergency and medical support quickly",
+      "Share exact location and symptoms",
+      "Move to nearest hospital or staffed pharmacy",
+      "Stay on call with trusted contact",
+      "Do not continue isolated travel"
+    ]
+  },
+  {
+    "incident_title": "Blackmail demand with meetup threat",
+    "keywords": [
+      "blackmail meetup",
+      "pay or meet",
+      "threat to expose",
+      "extortion threat"
+    ],
+    "risk_level": "critical",
+    "recommended_actions": [
+      "Do not pay or engage further with extortion demands",
+      "Preserve all evidence and message logs",
+      "Report to cybercrime and local authorities",
+      "Alert trusted contacts about immediate safety concerns",
+      "Avoid solo meetups with threatening person"
+    ]
+  },
+  {
+    "incident_title": "Threatening stranger asks for money transfer",
+    "keywords": [
+      "money transfer threat",
+      "extortion call",
+      "threat for money",
+      "forced payment"
+    ],
+    "risk_level": "critical",
+    "recommended_actions": [
+      "Do not pay or engage further with extortion demands",
+      "Preserve all evidence and message logs",
+      "Report to cybercrime and local authorities",
+      "Alert trusted contacts about immediate safety concerns",
+      "Avoid solo meetups with threatening person"
+    ]
+  },
+  {
+    "incident_title": "Kidnap-like threat message",
+    "keywords": [
+      "kidnap threat",
+      "abduction threat",
+      "come alone",
+      "danger message"
+    ],
+    "risk_level": "critical",
+    "recommended_actions": [
+      "Do not pay or engage further with extortion demands",
+      "Preserve all evidence and message logs",
+      "Report to cybercrime and local authorities",
+      "Alert trusted contacts about immediate safety concerns",
+      "Avoid solo meetups with threatening person"
+    ]
+  },
+  {
+    "incident_title": "Revenge threat after rejecting someone",
+    "keywords": [
+      "revenge threat",
+      "rejected person threat",
+      "acid threat",
+      "harm threat"
+    ],
+    "risk_level": "critical",
+    "recommended_actions": [
+      "Do not pay or engage further with extortion demands",
+      "Preserve all evidence and message logs",
+      "Report to cybercrime and local authorities",
+      "Alert trusted contacts about immediate safety concerns",
+      "Avoid solo meetups with threatening person"
+    ]
+  },
+  {
+    "incident_title": "Suspicious person near bus station at night",
+    "keywords": [
+      "bus station suspicious",
+      "bus stand unsafe",
+      "night bus stop",
+      "terminal unsafe"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Move to populated area immediately",
+      "Keep valuables secure and hidden",
+      "Call trusted contact while moving",
+      "Use Safe Haven navigation for nearest staffed place",
+      "Trigger Protection Mode if direct threat appears"
+    ]
+  },
+  {
+    "incident_title": "Metro exit area feels unsafe",
+    "keywords": [
+      "metro exit unsafe",
+      "subway exit risk",
+      "station exit dark",
+      "metro concern"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Move to populated area immediately",
+      "Keep valuables secure and hidden",
+      "Call trusted contact while moving",
+      "Use Safe Haven navigation for nearest staffed place",
+      "Trigger Protection Mode if direct threat appears"
+    ]
+  },
+  {
+    "incident_title": "Large office campus exit after late shift",
+    "keywords": [
+      "late shift office",
+      "office campus dark",
+      "corporate exit unsafe",
+      "night office exit"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Move to populated area immediately",
+      "Keep valuables secure and hidden",
+      "Call trusted contact while moving",
+      "Use Safe Haven navigation for nearest staffed place",
+      "Trigger Protection Mode if direct threat appears"
+    ]
+  },
+  {
+    "incident_title": "Supermarket parking confrontation",
+    "keywords": [
+      "supermarket parking",
+      "store parking unsafe",
+      "mall lot confrontation",
+      "shopping area unsafe"
+    ],
+    "risk_level": "high",
+    "recommended_actions": [
+      "Move to populated area immediately",
+      "Keep valuables secure and hidden",
+      "Call trusted contact while moving",
+      "Use Safe Haven navigation for nearest staffed place",
+      "Trigger Protection Mode if direct threat appears"
+    ]
+  }
+]

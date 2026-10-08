@@ -1,0 +1,73 @@
+{
+  "expo": {
+    "name": "App4Her Prototype",
+    "slug": "app4her-prototype",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.app4her.prototype",
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "App4Her uses location to suggest nearby safe places and share location with trusted contacts during safety flows.",
+        "NSUserTrackingUsageDescription": "App4Her does not use tracking; this prototype keeps data local."
+      }
+    },
+    "android": {
+      "package": "com.app4her.prototype",
+      "permissions": [
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION",
+        "READ_CONTACTS",
+        "CALL_PHONE"
+      ],
+      "intentFilters": [],
+      "queries": {
+        "intents": [
+          {
+            "action": "android.intent.action.DIAL",
+            "data": {
+              "scheme": "tel"
+            }
+          },
+          {
+            "action": "android.intent.action.CALL",
+            "data": {
+              "scheme": "tel"
+            }
+          }
+        ]
+      }
+    },
+    "plugins": [
+      [
+        "expo-location",
+        {
+          "locationWhenInUsePermission": "App4Her needs your location to find nearby staffed safe places."
+        }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "App4Her allows optional media evidence for incident records stored on device."
+        }
+      ],
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "App4Her uses camera for room safety scan preview."
+        }
+      ],
+      [
+        "expo-contacts",
+        {
+          "contactsPermission": "App4Her uses contacts to quickly add trusted safety contacts."
+        }
+      ],
+      "expo-asset"
+    ]
+  }
+}
